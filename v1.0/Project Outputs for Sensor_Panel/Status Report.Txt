@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Sensor_Panel.PcbDoc]
+   Generated File[Sensor_Panel.GTO]
+   Generated File[Sensor_Panel.GTP]
+   Generated File[Sensor_Panel.GTS]
+   Generated File[Sensor_Panel.GTL]
+   Generated File[Sensor_Panel.GBL]
+   Generated File[Sensor_Panel.GBS]
+   Generated File[Sensor_Panel.GBP]
+   Generated File[Sensor_Panel.GBO]
+   Generated File[Sensor_Panel.GKO]
+   Generated File[Sensor_Panel.RUL]
+   Generated File[Sensor_Panel.EXTREP]
+   Generated File[Sensor_Panel.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:38:20 On 12-11-2020
